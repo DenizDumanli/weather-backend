@@ -1,0 +1,17 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.opentechnica.demo.Properties",
+      "name": "city",
+      "type": "com.opentechnica.demo.Properties"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.opentechnica.demo.Properties",
+      "name": "city.name",
+      "type": "java.lang.String"
+    }
+  ]
+}
