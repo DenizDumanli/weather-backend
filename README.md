@@ -1,28 +1,10 @@
-# CMPE328HW1
-You can simply download the code and open the project in IntelliJ or in other IDE's and run it from the DemoApplication.java class.
+# Weather Backend
+You can simply download the code and open the project in IntelliJ or in other IDE's and run it from the WeatherApplication.java class.
 
-Some test scripts for Postman
+Test script for Postman
 
-GET localhost:5000/users to see all users
+GET localhost:5000/country to see weather information.
 
-POST localhost:5000/users with body as to add user:
-{
-"id":2,
-"name": "TEST",
-"surName": "TESTER",
-"mail": "TEST@mail.com"
-}
+To change the country you should change the city.name in application.properties.
 
-GET localhost:5000/user/2 to get specific user that has id as 2.
 
-PUT localhost:5000/users with body as to update the user with id 2:
-{
-"id":2,
-"name": "UpdatedTEST",
-"surName": "TESTER",
-"mail": "TEST@mail.com"
-}
-
-DELETE localhost:5000/user/2 to delete user that has id as 2.
-
-You can also use this site to test the program http://hw1-env.eba-ai4e8y8s.eu-central-1.elasticbeanstalk.com/users by using Postman.
