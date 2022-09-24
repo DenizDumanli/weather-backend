@@ -1,11 +1,4 @@
-//-----------------------------------------------------
-// Title: DemoApplication
-// Author: Deniz Dumanlı
-// ID: 25337236168
-// Section: 1
-// Description: This class to run the program.
-//-----------------------------------------------------
-package com.opentechnica.demo;
+package com.weather;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

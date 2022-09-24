@@ -5,7 +5,7 @@
 // Section: 1
 // Description: This class is a tester class for our program.
 //-----------------------------------------------------
-package com.opentechnica.demo;
+package com.weather;
 
 import net.sf.jsqlparser.JSQLParserException;
 import net.sf.jsqlparser.parser.CCJSqlParserUtil;

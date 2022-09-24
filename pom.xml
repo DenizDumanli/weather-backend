@@ -8,8 +8,8 @@
 		<version>2.4.3</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.opentechnica</groupId>
-	<artifactId>demo</artifactId>
+	<groupId>com</groupId>
+	<artifactId>Weather-Back</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>demo</name>
 	<description>Demo project</description>
