@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.*;
 @CrossOrigin("*")
 public class WeatherController {
 
-    WeatherService userService = new WeatherService(); // Here we create userService object.
+    WeatherService userService = new WeatherService();
 
     @Value("${city.name}")
     private String cityName;
